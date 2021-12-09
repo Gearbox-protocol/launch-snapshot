@@ -12,11 +12,9 @@ This repo is dedicated to presenting full transparency on how snapshots have bee
 
 ### Kovan testers snapshot
 
-TBA. The snapshot has been taken.
+The snapshot has been taken on block #28668076.
 
 ### Gearbox tester snapshot tool
-
-TBA. The snapshot has been taken.
 
 To check the correctness of kovan snapshot, you can run testet snapshot tool.
 
