@@ -1,6 +1,6 @@
 # Launch snapshots
 
-This repo is dedicated to presenting full transparency on how snapshots have been done leading up to DAO-First launch of Gearbox Protocol. You can find more information in the protocol docs and the stages this is covering: https://docs.gearbox.finance/overview/launch-phases. 
+This repo is dedicated to presenting full transparency on how snapshots have been done leading up to DAO-First launch of Gearbox Protocol. You can find more information on the stages this is covering: https://docs.gearbox.finance/overview/launch-phases. 
 
 ### Credit account mining snapshot
 
