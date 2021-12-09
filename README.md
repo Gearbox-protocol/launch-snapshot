@@ -1,2 +1,0 @@
-# Gearbox tester snapshot tool
-
