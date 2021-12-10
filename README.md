@@ -12,11 +12,13 @@ This repo is dedicated to presenting full transparency on how snapshots have bee
 
 ### Kovan testers snapshot
 
-The snapshot has been taken on block #28668076. TBA within the next few days.
+The snapshot has been taken on block #28668076. Link to snapshot is [here](https://docs.google.com/spreadsheets/d/1xQzl_pqFtP8XLZ0cx1ds-X_nWu68sthTg8ELKEf3QDk/edit#gid=689096851).
+
+### Discord snapshot 
+
+The snapshot has been takeon 6 December 17-00 UTC. Link to snapshot is [here](https://docs.google.com/spreadsheets/d/1xQzl_pqFtP8XLZ0cx1ds-X_nWu68sthTg8ELKEf3QDk/edit#gid=813810144).
 
 ### Gearbox tester snapshot tool
-
-The snapshot has been taken 6 Dec 21 17-00 UTC. TBA within the next few days.
 
 To check the correctness of kovan snapshot, you can run testet snapshot tool.
 
