@@ -18,7 +18,7 @@ The snapshot has been taken on block #28668076. Link to snapshot is [here](https
 
 The snapshot has been takeon 6 December 17-00 UTC. Link to snapshot is [here](https://docs.google.com/spreadsheets/d/1xQzl_pqFtP8XLZ0cx1ds-X_nWu68sthTg8ELKEf3QDk/edit#gid=813810144).
 
-### Gearbox tester snapshot tool
+## Gearbox tester snapshot tool
 
 To check the correctness of kovan snapshot, you can run testet snapshot tool.
 
