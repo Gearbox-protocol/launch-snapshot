@@ -16,7 +16,7 @@ The snapshot has been taken on block #28668076. TBA within the next few days.
 
 ### Gearbox tester snapshot tool
 
-The snapshot has been taken. TBA within the next few days.
+The snapshot has been taken 6 Dec 21 17-00 UTC. TBA within the next few days.
 
 To check the correctness of kovan snapshot, you can run testet snapshot tool.
 
