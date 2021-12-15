@@ -5,7 +5,7 @@ This repo is dedicated to presenting full transparency on how snapshots have bee
 ### Credit account mining snapshot
 
 * The list was snapshotted at block 13650000 (November 20).
-* Dune queries are here - https://dune.xyz/queries/205069?block_cutoff=13650000, https://dune.xyz/queries/205073, https://dune.xyz/queries/199373.
+* Dune queries are here - https://dune.xyz/queries/205069?block_cutoff=13650000, https://dune.xyz/queries/205073, https://dune.xyz/queries/199373, https://dune.xyz/queries/297547, https://dune.xyz/queries/297531.
 * Jupyter notebook on Google Collab to retrieve snapshot voters list: https://colab.research.google.com/drive/1RzVVfKiwrBIGiANfH8695Lmew4ZE3U47?usp=sharing
 * TXT file with the addresses from the initial snapshot: https://github.com/Gearbox-protocol/launch-snapshot/tree/master/credit_account_snapshot
 * **Forum discussion on the list** - https://gov.gearbox.fi/t/credit-account-mining-snapshot-list/.
